@@ -1,0 +1,4 @@
+# This directory contains processed and analyzed data
+# Subdirectory structure:
+# - normalized_results.csv: Data normalized and processed for analysis
+# - statistical_analysis.csv: Results from statistical tests
