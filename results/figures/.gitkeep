@@ -1,0 +1,6 @@
+# This directory contains generated figures and visualizations
+# Structure:
+# - Figure_1_liver_enzymes.png: Liver enzyme levels across groups
+# - Figure_2_dose_response.png: Dose-response relationships
+# - Figure_3_blood_parameters.png: Blood biochemical parameters
+# - correlation_heatmap.png: Parameter correlation matrix
