@@ -1,0 +1,6 @@
+# This directory contains statistical analysis results and summary tables
+# Structure:
+# - anova_results.csv: ANOVA results for all parameters
+# - snk_test_results.csv: SNK post-hoc pairwise comparisons
+# - dose_response_analysis.csv: Regression analysis results
+# - summary_statistics.csv: Descriptive statistics
